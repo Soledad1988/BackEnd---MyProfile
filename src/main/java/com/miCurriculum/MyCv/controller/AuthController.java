@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.controller;
 
 import com.miCurriculum.MyCv.dto.JwtDto;
@@ -82,3 +82,4 @@ public class AuthController {
         return new ResponseEntity(jwtDto, HttpStatus.OK);
     }
 }
+*/

@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.service;
 
 import com.miCurriculum.MyCv.entity.Usuario;
@@ -30,3 +30,4 @@ public class UsuarioService {
         usuarioRepository.save(usuario);
     }
 }
+*/

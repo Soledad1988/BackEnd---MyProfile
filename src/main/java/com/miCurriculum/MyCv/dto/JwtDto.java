@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.dto;
 
 import java.util.Collection;
@@ -49,3 +49,4 @@ public class JwtDto {
         this.authorities = authorities;
     }
 }
+*/

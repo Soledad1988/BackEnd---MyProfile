@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.dto;
 
 import java.util.HashSet;
@@ -58,3 +58,4 @@ public class NuevoUsuario {
         this.roles = roles;
     }
 }
+*/

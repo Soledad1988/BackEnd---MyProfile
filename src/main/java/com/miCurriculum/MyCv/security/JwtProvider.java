@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.security;
 
 import com.miCurriculum.MyCv.entity.UsuarioPrincipal;
@@ -56,3 +56,4 @@ public class JwtProvider {
         return false;
     }
 }
+*/

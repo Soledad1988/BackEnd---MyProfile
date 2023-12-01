@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.entity;
 
 import java.util.Collection;
@@ -75,3 +75,4 @@ public class UsuarioPrincipal implements UserDetails{
         return email;
     }
 }
+*/

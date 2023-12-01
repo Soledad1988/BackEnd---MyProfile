@@ -53,38 +53,45 @@
 			<scope>test</scope>
 		</dependency>
                 
-                <dependency>
+        <!-- 
+        <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
-                <dependency>
-                        <groupId>io.jsonwebtoken</groupId>
-                        <artifactId>jjwt</artifactId>
-                        <version>0.9.1</version>
-                </dependency>
+		
+        <dependency>
+             <groupId>io.jsonwebtoken</groupId>
+             <artifactId>jjwt</artifactId>
+             <version>0.9.1</version>
+         </dependency>
                 
-	 <dependency>
-	  <groupId>org.springframework.security</groupId>
-	  <artifactId>spring-security-core</artifactId>
-	  <type>jar</type>
-	 </dependency>
-	 <dependency>
-	  <groupId>javax.validation</groupId>
-	  <artifactId>validation-api</artifactId>
-	  <type>jar</type>
-	 </dependency>
-	 <dependency>
-	  <groupId>org.springframework.security</groupId>
-	  <artifactId>spring-security-web</artifactId>
-	  <type>jar</type>
-	 </dependency>
+		 <dependency>
+		  <groupId>org.springframework.security</groupId>
+		  <artifactId>spring-security-core</artifactId>
+		  <type>jar</type>
+		 </dependency>-->
+		 
+		 
+		 <dependency>
+		  <groupId>javax.validation</groupId>
+		  <artifactId>validation-api</artifactId>
+		  <type>jar</type>
+		 </dependency>
+		 
+		 
+		 <dependency>
+		  <groupId>org.springframework.security</groupId>
+		  <artifactId>spring-security-web</artifactId>
+		  <type>jar</type>
+		 </dependency>
           
-	
+	<!--
 	 <dependency>
 	  <groupId>org.springframework.security</groupId>
 	  <artifactId>spring-security-config</artifactId>
 	  <type>jar</type>
-	 </dependency>
+	 </dependency>-->
+	 
 	</dependencies>
         
        

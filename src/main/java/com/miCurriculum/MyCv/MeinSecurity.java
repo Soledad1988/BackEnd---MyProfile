@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv;
 
 import com.miCurriculum.MyCv.security.JwtEntryPoint;
@@ -67,3 +67,4 @@ public class MeinSecurity extends WebSecurityConfigurerAdapter{
         http.addFilterBefore(jwtTokenFilter(), UsernamePasswordAuthenticationFilter.class);
     }
 }
+*/

@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.service;
 
 import com.miCurriculum.MyCv.entity.Usuario;
@@ -19,4 +19,4 @@ public class UserDetailsServiceImpl implements UserDetailsService{
         Usuario usuario = usuarioService.getByNombreUsuario(nombreUsuario).get();
         return UsuarioPrincipal.build(usuario);
     }
-}
+}*/

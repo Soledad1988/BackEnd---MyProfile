@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.security;
 
 import com.miCurriculum.MyCv.service.UserDetailsServiceImpl;
@@ -50,3 +50,4 @@ public class JwtTokenFilter extends OncePerRequestFilter{
         return null;
     }
 }
+*/

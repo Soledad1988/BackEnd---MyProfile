@@ -19,10 +19,10 @@ public class MyCvApplication {
                             @Override
     public void addCorsMappings(CorsRegistry corsRegistry) {
         corsRegistry.addMapping("/**")
-                .allowedOrigins("http://localhost:4200")
+                .allowedOrigins("\"http://localhost:4200\"")
                 .allowedMethods("*")
                 .allowedHeaders("*")
-                .exposedHeaders("Authorization")
+                .exposedHeaders("Authorization")//Authorization
                 .allowCredentials(true).maxAge(3600);
     }
            

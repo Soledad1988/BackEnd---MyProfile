@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.security;
 
 import java.io.IOException;
@@ -20,4 +20,4 @@ public class JwtEntryPoint implements AuthenticationEntryPoint{
         logger.error("falló el método inicio");
         res.sendError(HttpServletResponse.SC_UNAUTHORIZED, "no autorizado");
     }
-}
+}*/

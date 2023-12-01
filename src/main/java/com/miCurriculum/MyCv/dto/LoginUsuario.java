@@ -1,4 +1,4 @@
-
+/*
 package com.miCurriculum.MyCv.dto;
 
 import javax.validation.constraints.NotBlank;
@@ -26,3 +26,4 @@ public class LoginUsuario {
         this.password = password;
     }
 }
+*/
